@@ -2,7 +2,7 @@
 
 This repository showcases a Tableau dashboard created to analyze real estate pricing data in Seattle. The dashboard presents various visual insights to help understand the distribution and trends in property prices across different zip codes, bedroom counts, and time.
 
-![Seattle Real Estate Dashboard](image.png)
+![Seattle Real Estate Dashboard](images/Housing_Prices_Seattle_Dashboard.png)
 
 ## Visualizations
 
